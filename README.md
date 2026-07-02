@@ -1,224 +1,207 @@
-<div align="center">
+# 🚀 Premium GitHub README v2.0 Roadmap
 
-# 👋 Hi, I'm Praveen Kumar
+## 🌌 Hero Section
 
-### 🚀 Python Full Stack Developer • Django REST Framework • React • MySQL
+* 🎬 Full-width animated cyber-themed SVG banner
+* 👋 Large "Hi, I'm Praveen Kumar"
+* 💻 Subtitle:
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Python+Full+Stack+Developer;Django+REST+Framework+Developer;React+Developer;REST+API+Builder;Future+Software+Engineer;Always+Learning+New+Technologies" />
-
-<p>
-<img src="https://komarev.com/ghpvc/?username=praveen-dev685&label=Profile%20Views&style=for-the-badge&color=0ea5e9"/>
-<img src="https://img.shields.io/github/followers/praveen-dev685?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/praveen-dev685?style=for-the-badge"/>
-</p>
-
-</div>
-
----
-
-# 💫 About Me
-
-💻 Passionate Python Full Stack Developer
-
-🔥 Building modern web applications using Django REST Framework and React.
-
-🌱 Currently improving Backend Development, Authentication, REST APIs, Node.js, and System Design.
-
-🎯 Long-term goal: Become a Software Engineer at a leading product company and build impactful software.
+  * Python Full Stack Developer
+  * Django REST Framework
+  * React Developer
+  * Future Software Engineer
+* ⌨️ Animated typing effect
+* 🌟 Glassmorphism design
 
 ---
 
-# 🌐 Connect With Me
+## 🖥️ Animated Coding Section
 
-<p align="center">
+Center an animated coding GIF:
 
-<a href="https://praveen-personals-portfolio.netlify.app">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge"/>
-</a>
-
-<a href="https://www.linkedin.com/in/praveen-ke">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/praveen-dev685">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
+* 👨‍💻 Developer coding on dual monitors
+* 💙 Dark neon theme
+* ⚡ Floating code particles
+* 🌌 Terminal animation
 
 ---
 
-# 🚀 Tech Stack
+## 👨‍💻 About Me
 
-### Languages
+Professional card layout
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,bootstrap"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=django,nodejs"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma"/>
-</p>
+* 🚀 Python Developer
+* ⚛ React
+* 🐍 Django REST Framework
+* 🗄️ MySQL
+* 🔐 REST APIs
+* 🤖 AI Enthusiast
+* 📍 India
 
 ---
 
-# 🚀 Featured Projects
+## 🌐 Social Section
 
-### 🍽 Food Donation Platform
+Animated badges
 
-> React + Django REST Framework + MySQL + JWT Authentication
-
----
-
-### 🌐 Personal Portfolio
-
-Modern responsive portfolio showcasing projects, certificates and skills.
+* Portfolio
+* LinkedIn
+* GitHub
+* Email
 
 ---
 
-### 🏨 Hotel Management System
+## 🛠 Tech Stack
 
-Python-based project demonstrating CRUD operations and management workflow.
+Icons arranged beautifully
 
----
+Languages
 
-### 🏠 House Rental Website
+* Python
+* JavaScript
+* HTML
+* CSS
 
-Responsive property listing website built using HTML, CSS and JavaScript.
+Frontend
 
----
+* React
+* Bootstrap
 
-# 📚 Currently Learning
+Backend
 
+* Django
 * Django REST Framework
 * Node.js
-* Authentication & Security
-* REST API Best Practices
-* AI Integration
-* System Design
-* Docker
-* AWS
+
+Database
+
+* MySQL
+
+Tools
+
+* VS Code
+* Git
+* GitHub
+* Postman
+* Figma
+* npm
 
 ---
 
-# 🎯 2026 Goals
+## 🚀 Featured Projects
 
-✅ Master Full Stack Development
+Premium project cards
 
-✅ Build Production Ready Applications
+🍽 Food Donation Platform
 
-✅ Contribute to Open Source
+🏨 Hotel Management System
 
-✅ Improve DSA & Problem Solving
+🏠 House Rental Website
 
-✅ Land a Software Developer Role
+🌐 Personal Portfolio
 
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=praveen-dev685&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen-dev685&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=praveen-dev685&theme=tokyonight"/>
-
-</p>
+📚 Python Projects Collection
 
 ---
 
-# 🏆 GitHub Trophies
+## 📊 GitHub Dashboard
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=praveen-dev685&theme=algolia&margin-w=12&no-frame=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=praveen-dev685&theme=tokyo-night&hide_border=true"/>
-
-</p>
+* GitHub Stats
+* Top Languages
+* GitHub Streak
+* Profile Summary
+* Repository Summary
 
 ---
 
-# 📊 Profile Summary
+## 🏆 Achievements
 
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=praveen-dev685&theme=github_dark"/>
-
-</p>
+GitHub Trophy Wall
 
 ---
 
-# 🐍 Contribution Snake
+## 📈 Live Contribution Graph
 
-> Configure GitHub Actions to generate automatically.
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/praveen-dev685/praveen-dev685/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
+Dark animated graph
 
 ---
 
-# 🏅 Coding Profiles
+## 🐍 Snake Animation
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
-
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
-
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge"/>
-
-</p>
+Automatically generated every day using GitHub Actions.
 
 ---
 
-# 💡 Quote
+## 💻 Coding Profiles
 
-> **"Code. Learn. Improve. Repeat."**
+* HackerRank
+* LeetCode
+* CodeChef
 
 ---
 
-<div align="center">
+## 📅 2026 Goals
 
-### ⭐ Thanks for visiting my GitHub Profile!
+✅ Master Full Stack
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&center=true&width=500&lines=Happy+Coding!;Keep+Building!;Never+Stop+Learning!"/>
+✅ Learn System Design
 
-</div>
+✅ Learn Docker
+
+✅ Learn AWS
+
+✅ Open Source Contributions
+
+✅ Crack Product-Based Company
+
+---
+
+## 💡 Developer Quote
+
+> "Great software is built one commit at a time."
+
+---
+
+## 🌙 Animated Footer
+
+✨ Happy Coding
+
+🚀 Thanks for visiting
+
+⭐ Star my repositories if you like them
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1000&center=true&width=500&lines=Code.+Learn.+Build.;Dream+Big.;Never+Stop+Learning.;Happy+Coding!"/>
+
+---
+
+# 🔥 Bonus Premium Features
+
+✅ Glassmorphism Header
+
+✅ Animated SVG Banner
+
+✅ Developer Coding GIF
+
+✅ Neon Theme
+
+✅ Live GitHub Stats
+
+✅ Contribution Snake
+
+✅ GitHub Trophies
+
+✅ Activity Graph
+
+✅ Profile Summary Cards
+
+✅ Visitor Counter
+
+✅ Dynamic Typing Animation
+
+✅ Professional Dark Theme
+
+✅ Recruiter-Friendly Layout
+
+✅ Mobile Responsive
+
+✅ Modern Developer Branding
