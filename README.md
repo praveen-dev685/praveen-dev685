@@ -1,207 +1,143 @@
-# 🚀 Premium GitHub README v2.0 Roadmap
+<div align="center">
 
-## 🌌 Hero Section
+# Hi 👋, I'm Praveen Kumar
 
-* 🎬 Full-width animated cyber-themed SVG banner
-* 👋 Large "Hi, I'm Praveen Kumar"
-* 💻 Subtitle:
+### 🚀 Python Full Stack Developer | Django REST Framework | React | AI Enthusiast
 
-  * Python Full Stack Developer
-  * Django REST Framework
-  * React Developer
-  * Future Software Engineer
-* ⌨️ Animated typing effect
-* 🌟 Glassmorphism design
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Django+REST+Framework+Developer;React+Developer;Building+Real+World+Projects;Always+Learning+New+Technologies" />
+
+<img src="https://komarev.com/ghpvc/?username=praveen-dev685&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
 
 ---
 
-## 🖥️ Animated Coding Section
+# 💫 About Me
 
-Center an animated coding GIF:
+💻 Passionate Full Stack Developer from India
 
-* 👨‍💻 Developer coding on dual monitors
-* 💙 Dark neon theme
-* ⚡ Floating code particles
-* 🌌 Terminal animation
+🎯 Focused on Python, Django, DRF & React
 
----
+📚 Currently learning
 
-## 👨‍💻 About Me
+- Node.js
+- Authentication
+- REST APIs
+- AI Integration
+- System Design
 
-Professional card layout
+🚀 Building Real World Projects
 
-* 🚀 Python Developer
-* ⚛ React
-* 🐍 Django REST Framework
-* 🗄️ MySQL
-* 🔐 REST APIs
-* 🤖 AI Enthusiast
-* 📍 India
+- Food Donation Platform
+- Personal Portfolio
+- Hotel Management System
+- House Rental Website
 
----
+🌱 Goal
 
-## 🌐 Social Section
-
-Animated badges
-
-* Portfolio
-* LinkedIn
-* GitHub
-* Email
+Become a Software Engineer in a Top Product Company.
 
 ---
 
-## 🛠 Tech Stack
+# 🌐 Connect With Me
 
-Icons arranged beautifully
+<p align="left">
 
-Languages
+<a href="https://www.linkedin.com/in/praveen-ke">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-* Python
-* JavaScript
-* HTML
-* CSS
+<a href="https://praveen-personals-portfolio.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
 
-Frontend
+<a href="https://github.com/praveen-dev685">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-* React
-* Bootstrap
-
-Backend
-
-* Django
-* Django REST Framework
-* Node.js
-
-Database
-
-* MySQL
-
-Tools
-
-* VS Code
-* Git
-* GitHub
-* Postman
-* Figma
-* npm
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 💻 Tech Stack
 
-Premium project cards
+### Languages
 
-🍽 Food Donation Platform
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
 
-🏨 Hotel Management System
+### Frontend
 
-🏠 House Rental Website
+![React](https://skillicons.dev/icons?i=react)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 
-🌐 Personal Portfolio
+### Backend
 
-📚 Python Projects Collection
+![Django](https://skillicons.dev/icons?i=django)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
 
----
+### Database
 
-## 📊 GitHub Dashboard
+![MySQL](https://skillicons.dev/icons?i=mysql)
 
-* GitHub Stats
-* Top Languages
-* GitHub Streak
-* Profile Summary
-* Repository Summary
+### Tools
 
----
-
-## 🏆 Achievements
-
-GitHub Trophy Wall
-
----
-
-## 📈 Live Contribution Graph
-
-Dark animated graph
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Postman](https://skillicons.dev/icons?i=postman)
+![Figma](https://skillicons.dev/icons?i=figma)
 
 ---
 
-## 🐍 Snake Animation
+# 🚀 Current Projects
 
-Automatically generated every day using GitHub Actions.
+✅ Food Donation Platform
 
----
+✅ React Portfolio Website
 
-## 💻 Coding Profiles
+✅ Django REST API Projects
 
-* HackerRank
-* LeetCode
-* CodeChef
+✅ Authentication System
 
----
-
-## 📅 2026 Goals
-
-✅ Master Full Stack
-
-✅ Learn System Design
-
-✅ Learn Docker
-
-✅ Learn AWS
-
-✅ Open Source Contributions
-
-✅ Crack Product-Based Company
+✅ Node.js Backend Learning
 
 ---
 
-## 💡 Developer Quote
+# 📊 GitHub Stats
 
-> "Great software is built one commit at a time."
+![](https://github-readme-stats.vercel.app/api?username=praveen-dev685&show_icons=true&theme=tokyonight)
 
----
+![](https://github-readme-streak-stats.herokuapp.com/?user=praveen-dev685&theme=tokyonight)
 
-## 🌙 Animated Footer
-
-✨ Happy Coding
-
-🚀 Thanks for visiting
-
-⭐ Star my repositories if you like them
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1000&center=true&width=500&lines=Code.+Learn.+Build.;Dream+Big.;Never+Stop+Learning.;Happy+Coding!"/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=praveen-dev685&layout=compact&theme=tokyonight)
 
 ---
 
-# 🔥 Bonus Premium Features
+# 🏆 GitHub Trophy
 
-✅ Glassmorphism Header
+![](https://github-profile-trophy.vercel.app/?username=praveen-dev685&theme=algolia&margin-w=10)
 
-✅ Animated SVG Banner
+---
 
-✅ Developer Coding GIF
+# 📈 Contribution Graph
 
-✅ Neon Theme
+![](https://github-readme-activity-graph.vercel.app/graph?username=praveen-dev685&theme=tokyo-night)
 
-✅ Live GitHub Stats
+---
 
-✅ Contribution Snake
+# ⚡ Fun Fact
 
-✅ GitHub Trophies
+> "Every line of code I write brings me one step closer to becoming a world-class Software Engineer."
 
-✅ Activity Graph
+---
 
-✅ Profile Summary Cards
+<div align="center">
 
-✅ Visitor Counter
+### ⭐ Thanks for visiting my profile ⭐
 
-✅ Dynamic Typing Animation
+If you like my projects, don't forget to ⭐ them!
 
-✅ Professional Dark Theme
-
-✅ Recruiter-Friendly Layout
-
-✅ Mobile Responsive
-
-✅ Modern Developer Branding
+</div>
